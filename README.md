@@ -27,4 +27,4 @@ Result:
   App\Auth\Command                                                             App\Auth\Command 
 ```
 
-Command is folder!
+  `App\Auth\Command` - is folder!
